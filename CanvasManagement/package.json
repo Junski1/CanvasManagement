@@ -1,0 +1,25 @@
+{
+  "name": "com.junsk1games.canvasmanagement",
+  "version": "1.0.0",
+  "displayName": "CanvasManagement",
+  "description": "Adds an easy canvas management system to your projects.\n\nIncludes\n\na use-ready Canvas Manager\n\n3 ready to use Buttons",
+  "unity": "2022.3",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "samples": [
+    {
+      "displayName": "Sample scene",
+      "description": "A scene with basic functional UI.",
+      "path": "Samples~/SampleScene"
+    }
+  ],
+  "keywords": [
+    "Canvas",
+    "Management"
+  ],
+  "author": {
+    "name": "Junsk1",
+    "email": "oskarjunnola@gmaul.com"
+  }
+}
