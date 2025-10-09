@@ -115,6 +115,8 @@ You can create new buttons easily by creating a script
 Below is a sample script that you can follow:
 
 ```c#
+using UnityEngine;
+using UnityEngine.UI;
 [RequireComponent(typeof(Button))]
 public class ExampleButton : MonoBehaviour
 {
